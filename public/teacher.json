@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Zulfiqur Rahman",
+      "posstion": "Vice-Chancellor",
+      "age": 55,
+      "nationality": "Bangladeshi",
+      "salary": 120000,
+      "img": "https://lh3.googleusercontent.com/proxy/WOjkhdQvXF544SihVpxIu6-Wp67BQgU4FtJkb8S6CuDaNFIWt7ehfGuShFqVfURlhFZzIfnsp0XgNj839UiouRuq2GP3Y0rQ7da4g7w2Uw_C"
+    },
+    {
+      "name": "Abdur rahim",
+      "posstion": "Assitent-professor",
+      "age": 45,
+      "nationality": "Bangladeshi",
+      "salary": 55000,
+      "img": "https://www.uhlbd.com/backend/web/product_uploads/1476087900_2_dr%20salim%20shakur.jpg"
+    },
+    {
+      "name": "Bidut zamal",
+      "posstion": "Lecturer",
+      "age": 50,
+      "nationality": "Bangladeshi",
+      "salary": 25000,
+      "img": "https://doctoryouneed.org/wp-content/uploads/2019/09/PROF.-DR.-M-A-HASNAT.jpg"
+    },
+    {
+      "name": "Monoar Ali",
+      "posstion": "Lecturer",
+      "age": 48,
+      "nationality": "Bangladeshi",
+      "salary": 25000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2RL5IGQesVqCzSquQAgcCc-Rczt0Z7DUROf3bm9QEsfC_3ECqifY0NaJl3yOcz9E0CtE&usqp=CAU"
+    },
+    {
+      "name": "Rabiul islam",
+      "posstion": "Lecturer",
+      "age": 54,
+      "nationality": "Bangladeshi",
+      "salary": 25000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz0Y8VUmaDF3Im67O1wHDQ3bqhfmiS-cF7vwvkKXZDDJIxKzczpRaoBtjR3f6KqipsKL4&usqp=CAU"
+    },
+    {
+      "name": "Faridul islam",
+      "posstion": "Lecturer",
+      "age": 32,
+      "nationality": "Bangladeshi",
+      "salary": 32000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOuiEH5ixQNnU4ZUQVcJxWTeTKWnL6lYNHd_lk84MTY8mYl2M578IcLI9EbyIZdFtDox0&usqp=CAU"
+    },
+    {
+      "name": "Shahiduzzaman",
+      "posstion": "Lecturer",
+      "age": 38,
+      "nationality": "Bangladeshi",
+      "salary": 25000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhjRQBE8mYBWGF_k6FxKETh9Nb0nfvSGtweZiN0zxCZ9xA4OWNJpMCLAxpRhfLfibeIFI&usqp=CAU"
+    },
+    {
+      "name": "Motin Ali",
+      "posstion": "Lecturer",
+      "age": 40,
+      "nationality": "Bangladeshi",
+      "salary": 45000,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3fH6dhiqSQpmz77s15fTxdyF9Vs2z3aoNUN7SygzpDk-tehEEu4F-8YfhQ6Fvu2yKGWg&usqp=CAU"
+    },
+    {
+      "name": "Monoar Hossen",
+      "posstion": "Lecturer",
+      "age": 60,
+      "nationality": "Bangladeshi",
+      "salary": 32000,
+      "img": "https://media-eng.dhakatribune.com/uploads/2020/12/dr-mahmudul-haque-jesse-1606817685558.jpg"
+    }
+  ]
